@@ -53,10 +53,9 @@ The dataset contains applicant demographic information, loan details, and the lo
 
 ### **4. Model Evaluation**
 - Accuracy score
-- Confusion Matrix (numeric + heatmap)
+- Confusion Matrix
 - Classification Report (precision, recall, F1-score)
 - ROC Curve & AUC score
-- Cross-validation accuracy
 
 ---
 
